@@ -1,0 +1,7 @@
+[
+  { "name": "Producto 1", "price": 100, "stock": 10, "category": "Electrónica", "description": "Auriculares inalámbricos" },
+  { "name": "Producto 2", "price": 200, "stock": 5, "category": "Hogar", "description": "Lámpara LED" },
+  { "name": "Producto 3", "price": 150, "stock": 20, "category": "Deporte", "description": "Balón de fútbol" },
+  { "name": "Producto 4", "price": 250, "stock": 8, "category": "Electrodomésticos", "description": "Tostadora" },
+  { "name": "Producto 5", "price": 300, "stock": 15, "category": "Tecnología", "description": "Tablet 10 pulgadas" }
+]
